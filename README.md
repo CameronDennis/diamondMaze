@@ -28,3 +28,6 @@ a | moves the diamond right two pixels
 s | moves the diamond down two pixels
 d | moves the diamond right two pixels
 q | stops the simulation
+
+
+You do not have my permission to copy this code and claim it as your own. If you would like to build off of it/improve upon it, you may do so, but you *must* credit me.
